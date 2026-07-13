@@ -1,6 +1,6 @@
 # Merhaba, ben Musa Yurdakul 👋
 
-Yazılım geliştirmeye tutkuyla bağlı bir bilgisayar/yazılım mühendisliği öğrencisiyim. Nesneye dayalı programlama, yazılım testi ve veri analizi alanlarında projeler geliştiriyorum.
+Bilgisayar Programcılığı öğrencisi / Yazılım Geliştirme Uzmanı. Nesneye dayalı programlama, yazılım testi ve veri analizi alanlarında projeler geliştiriyorum.
 
 ## 🛠️ Kullandığım Teknolojiler
 
@@ -26,4 +26,5 @@ Yazılım geliştirmeye tutkuyla bağlı bir bilgisayar/yazılım mühendisliği
 
 ## 📫 İletişim
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-sefa-yurdakul-19b2b23b6/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurdakulsefamusa@gmail.com)
