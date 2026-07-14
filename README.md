@@ -10,14 +10,22 @@ Bilgisayar Programcılığı öğrencisi / Yazılım Geliştirme Uzmanı. Nesney
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Öne Çıkan Projelerim
+## 💼 Ticari Projelerim (Kapalı Kaynak)
 
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
+| [BIST Analiz Botu](https://github.com/MusaYurdakul/bist-analiz-botu) | Hisse tarama, sinyal üretimi ve otonom işlem sistemi | Python |
+| [EdgeAI Kalite Kontrol](https://github.com/MusaYurdakul/edgeai-kalite-kontrol) | Kamera ile gerçek zamanlı ürün kalite kontrolü | Python · OpenCV |
+| [Emlak Foto İyileştirme](https://github.com/MusaYurdakul/emlak-foto-iyilestirme) | İlan fotoğrafları için AI iyileştirme aracı | Python · AI |
+
+## 🚀 Açık Kaynak Projelerim
+
+| Proje | Açıklama | Teknoloji |
+|---|---|---|
+| [Müşteri Segmentasyonu](https://github.com/MusaYurdakul/musteri-segmentasyonu-ml) | K-means ile segmentasyon, elbow & silhouette analizi | Python · ML |
 | [ECommerceApp2](https://github.com/MusaYurdakul/ECommerceApp2) | E-ticaret sistemi + NUnit test senaryoları | C# |
 | [hissesenedi](https://github.com/MusaYurdakul/hissesenedi) | Hisse senedi istatistiksel analizi (regresyon, hipotez testleri) | Python |
 | [SmartLibraryPlus](https://github.com/MusaYurdakul/SmartLibraryPlus) | Kütüphane yönetim sistemi (Maven + SQLite) | Java |
-| [Ucak-Projesi](https://github.com/MusaYurdakul/Ucak-Projesi) | Uçak rezervasyon sistemi | Java |
 
 ## 📊 GitHub İstatistiklerim
 
