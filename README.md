@@ -32,6 +32,7 @@ Bilgisayar Programcılığı öğrencisi / Yazılım Geliştirme Uzmanı. Nesney
 
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
+| [Ağ Envanteri](https://github.com/MusaYurdakul/ag-envanteri) | Ağ cihazlarını keşfeden, tip tahmini yapan, geçmişi tutan ve değişiklikleri e-postayla bildiren araç | Python · SNMP · SQLite |
 | [Müşteri Segmentasyonu](https://github.com/MusaYurdakul/musteri-segmentasyonu-ml) | K-means ile segmentasyon, elbow & silhouette analizi | Python · ML |
 | [ECommerceApp2](https://github.com/MusaYurdakul/ECommerceApp2) | E-ticaret sistemi + NUnit test senaryoları | C# |
 | [hissesenedi](https://github.com/MusaYurdakul/hissesenedi) | Hisse senedi istatistiksel analizi (regresyon, hipotez testleri) | Python |
