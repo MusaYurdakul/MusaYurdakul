@@ -1,6 +1,6 @@
 # Merhaba, ben Musa Yurdakul 👋
 
-Bilgisayar Programcılığı öğrencisi / Yazılım Geliştirme Uzmanı. Nesneye dayalı programlama, yazılım testi ve veri analizi alanlarında projeler geliştiriyorum.
+Bilgisayar Programcılığı / Yazılım Geliştirme Uzmanı. Nesneye dayalı programlama, yazılım testi ve veri analizi alanlarında projeler geliştiriyorum.
 
 ## 🛠️ Kullandığım Teknolojiler
 
