@@ -7,6 +7,9 @@ Bilgisayar Programcılığı / Yazılım Geliştirme Uzmanı. Nesneye dayalı pr
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -32,6 +35,7 @@ Bilgisayar Programcılığı / Yazılım Geliştirme Uzmanı. Nesneye dayalı pr
 
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
+| [Siber Güvenlik Eğitimi](https://github.com/MusaYurdakul/siber-guvenlik-egitimi) | Çalışanlar için sesli ve etkileşimli bilgi güvenliği farkındalık eğitimi: 15 modül, final sınavı, yönetici raporu | React · TypeScript · Node.js |
 | [Ağ Envanteri](https://github.com/MusaYurdakul/ag-envanteri) | Ağ cihazlarını keşfeden, tip tahmini yapan, tanımsız cihazları tespit eden, geçmişi tutan, değişiklikleri e-postayla bildiren ve yerel web panelinde gösteren araç | Python · SNMP · SQLite · Flask |
 | [Müşteri Segmentasyonu](https://github.com/MusaYurdakul/musteri-segmentasyonu-ml) | K-means ile segmentasyon, elbow & silhouette analizi | Python · ML |
 | [ECommerceApp2](https://github.com/MusaYurdakul/ECommerceApp2) | E-ticaret sistemi + NUnit test senaryoları | C# |
